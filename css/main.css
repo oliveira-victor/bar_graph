@@ -98,6 +98,7 @@ button:hover {
 
 .space:hover {
     transform: translateY(-4px);
+    color: #a40e36;
 }
 
 footer {
