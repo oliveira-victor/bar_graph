@@ -56,6 +56,13 @@ button:hover {
     background-color: #c91e4c;
 }
 
+.error-msg {
+    color: #a40e36;
+    text-align: center;
+    display: none;
+    text-decoration: underline;
+}
+
 .graph-canvas {
     width: 800px;
     height: 500px;
