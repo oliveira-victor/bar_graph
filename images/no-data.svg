@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="90.075928mm"
+   height="105.71665mm"
+   viewBox="0 0 90.075928 105.71665"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="no-data.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9721743"
+     inkscape:cx="170.37033"
+     inkscape:cy="200.54008"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.482198,-41.964312)">
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:3.43958;stroke-linecap:round;stroke-dasharray:none;stop-color:#b5b5b5"
+       id="rect167"
+       width="86.636345"
+       height="86.636337"
+       x="57.201992"
+       y="43.684101"
+       ry="4.3586836" />
+    <rect
+       style="fill:#808080;stroke-width:0.694027;stroke-linecap:round;stop-color:#b5b5b5"
+       id="rect111"
+       width="13.982239"
+       height="38.448582"
+       x="67.195572"
+       y="92.209938" />
+    <rect
+       style="fill:#808080;stroke-width:0.536328;stroke-linecap:round;stop-color:#b5b5b5"
+       id="rect111-3"
+       width="13.982239"
+       height="22.960934"
+       x="84.751221"
+       y="107.69759" />
+    <rect
+       style="fill:#808080;stroke-width:0.728364;stroke-linecap:round;stop-color:#b5b5b5"
+       id="rect111-3-6"
+       width="13.982239"
+       height="42.347176"
+       x="102.30687"
+       y="88.31134" />
+    <rect
+       style="fill:#808080;stroke-width:0.975508;stroke-linecap:round;stop-color:#b5b5b5"
+       id="rect111-3-6-5"
+       width="13.982239"
+       height="75.960785"
+       x="119.86252"
+       y="54.697731" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;text-anchor:middle;fill:#808080;stroke:#1a1a1a;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stop-color:#b5b5b5"
+       x="100.25857"
+       y="147.43266"
+       id="text1263"><tspan
+         sodipodi:role="line"
+         id="tspan1261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Stupid Meeting';-inkscape-font-specification:'Stupid Meeting';stroke:none;stroke-width:0.264583;stroke-dasharray:none;fill:#808080"
+         x="100.25857"
+         y="147.43266">NO DATA</tspan></text>
+  </g>
+</svg>

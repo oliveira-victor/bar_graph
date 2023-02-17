@@ -75,6 +75,12 @@ button:hover {
     align-items: flex-end;
 }
 
+.graph-canvas img {
+    width: 20%;
+    opacity: 0.2;
+    margin: 0 auto 140px;
+}
+
 .square {
     width: 150px;
     margin-left: 5px;
