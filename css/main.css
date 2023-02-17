@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow', sans-serif;
+}
+
+body {
+    background-color: #ddbd94;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 36pt;
+    color: #a40e36;
+}
+
+a {
+    text-decoration: none;
+    color: #a40e36;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 30px auto;
+}
+
+header, form {
+    text-align: center;
+}
+
+input {
+    margin: 30px 5px;
+    padding: 6px;
+    width: 10%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    outline-color: #a40e36;
+}
+
+button {
+    width: 13%;
+    height: 40px;
+    margin-left: 5px;
+    background-color: #a40e36;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c91e4c;
+}
+
+.graph-canvas {
+    width: 800px;
+    height: 500px;
+    margin: 30px auto 0;
+    background-color: #cfcfcf;
+    border: 10px solid #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.square {
+    width: 150px;
+    margin-left: 5px;
+    background-color: #a40e36;
+    color: #fff;
+}
+
+.square:hover {
+    background-color: #c91e4c;
+}
+
+.print-numbers {
+    width: 800px;
+    margin: 10px auto;
+    display: flex;
+}
+
+.space {
+    width: 148px;
+    margin-left: 10px;
+    padding: 12px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.space:hover {
+    transform: translateY(-4px);
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* effects */
+.appear {
+    animation: appear 1.5s;
+}
+
+@-webkit-keyframes appear {
+    0%, 20%, 50%, 80%, 100% {transform: scale(1);}
+	1% {transform: scale(0.1);}
+    100% {transform: scale(1);}
+}
+
+@-moz-keyframes appear {
+    0%, 20%, 50%, 80%, 100% {transform: scale(1);}
+	1% {transform: scale(0.1);}
+    100% {transform: scale(1);}
+}
+
+@-o-keyframes appear {
+    0%, 20%, 50%, 80%, 100% {transform: scale(1);}
+	1% {transform: scale(0.1);}
+    100% {transform: scale(1);}
+}
+
+@keyframes appear {
+    0%, 20%, 50%, 80%, 100% {transform: scale(1);}
+	1% {transform: scale(0.1);}
+    100% {transform: scale(1);}
+}

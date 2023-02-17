@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bar Graph</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bar Graph</h1><br>
+            <h3>
+                Enter the percentage in order to create the bar graph.
+            </h3>
+        </header>
+        <form>
+            <input type="number" id="data1" min="0" max="100">
+            <input type="number" id="data2" min="0" max="100">
+            <input type="number" id="data3" min="0" max="100">
+            <input type="number" id="data4" min="0" max="100">
+            <input type="number" id="data5" min="0" max="100">
+            <button type="button" onclick="createGraph()">Create graph</button>
+        </form>
+            <div class="graph-canvas">
+                <!-- <div class="square" style="height: 87%">87%</div> -->
+            </div>
+            <div class="print-numbers">
+                <!--
+                <div class="space">87%</div>
+                <div class="space">87%</div>
+                <div class="space">87%</div>
+                <div class="space">87%</div>
+                <div class="space">87%</div>
+                -->
+            </div>
+            <footer>
+                This site was designed and coded by Victor F. Oliveira
+                <br><a href="https://github.com/oliveira-victor" target="_blank">github.com/oliveira-victor</a>
+            </footer>
+    </div>
+    <script src="./js/main.js"></script>
+</body>
+</html>
