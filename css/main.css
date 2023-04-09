@@ -147,3 +147,50 @@ footer {
 	1% {transform: scale(0.1);}
     100% {transform: scale(1);}
 }
+
+@media screen and (max-width: 767px) {
+    .container {
+        width: 90%;
+    }
+
+    header {
+        text-align: center;
+    }
+
+    .input-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    input {
+        display: block;
+        width: 60%;
+        margin: 10px auto;
+    }
+
+    button {
+        width: 80%;
+        margin-top: 22px;
+    }
+
+    .error-msg {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+
+    .graph-canvas {
+        width: 100%;
+    }
+
+    .print-numbers {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+    }
+
+    .space {
+        margin-top: 20px;
+    }
+}

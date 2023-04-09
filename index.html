@@ -19,11 +19,13 @@
             </h3>
         </header>
         <form>
-            <input type="number" id="data1" min="0" max="100">
-            <input type="number" id="data2" min="0" max="100">
-            <input type="number" id="data3" min="0" max="100">
-            <input type="number" id="data4" min="0" max="100">
-            <input type="number" id="data5" min="0" max="100">
+            <div class="input-container">
+                <input type="number" id="data1" min="0" max="100">
+                <input type="number" id="data2" min="0" max="100">
+                <input type="number" id="data3" min="0" max="100">
+                <input type="number" id="data4" min="0" max="100">
+                <input type="number" id="data5" min="0" max="100">
+            </div>
             <button type="button" onclick="createGraph()">Create graph</button>
         </form>
         <h3 class="error-msg">Please, enter numbers between 0 and 100.</h3>
